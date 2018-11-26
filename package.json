@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "gulp && jekyll serve"
+    "dev": "npm install && gulp && jekyll serve"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
