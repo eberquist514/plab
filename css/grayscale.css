@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Grayscale v3.3.7+1 (http://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -36,7 +36,7 @@ p {
 @media (min-width: 768px) {
   p {
     margin: 0 0 35px;
-    font-size: 20px;
+    font-size: 19px;
     line-height: 1.6;
   }
 }
