@@ -321,10 +321,19 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
-img.team-member {
+.team-members img {
   border-radius: 0px;
-  filter: grayscale(40%);
+  filter: grayscale(0%);
   max-width: 200px;
   margin-bottom: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
+
+.former-members img {
+  border-radius: 0px;
+  filter: grayscale(80%) sepia(40%);
+  max-width: 200px;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
