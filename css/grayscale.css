@@ -325,6 +325,7 @@ body {
   border-radius: 0px;
   filter: grayscale(40%);
   max-width: 200px;
+  max-height: 200px;
   margin-bottom: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
@@ -332,6 +333,7 @@ body {
   border-radius: 0px;
   filter: grayscale(40%) sepia(40%);
   max-width: 200px;
+  max-height: 200px;
   margin-bottom: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
